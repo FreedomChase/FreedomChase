@@ -7,6 +7,21 @@ Most of my work lives in private repositories, either because it is a commercial
 product or because it belongs to a client. So this profile is thin by necessity,
 not by activity. What follows is what I actually do.
 
+### Live today
+
+Five products, all running, all reachable. The code is private; the sites are not.
+
+| | | |
+|---|---|---|
+| **AEATsync** | Spanish e-invoicing and VeriFactu tax compliance | [aeatsync.io](https://aeatsync.io) |
+| **TIE Vault** | Checklists for the paperwork of living in Spain | [tie.aeatsync.io](https://tie.aeatsync.io) |
+| **MicroQ** | A queue system for small businesses | [microq.org](https://microq.org) |
+| **MicroTTS** | Instant voice for any text | [sr.microq.org](https://sr.microq.org) |
+| **Gentle Push** | Web push notifications for community groups | [gentlepush.org](https://gentlepush.org) |
+
+All five are built, deployed and operated end to end — including the parts that are
+not fun: migrations, billing, backups, and the 3am ones.
+
 ### What I build
 
 **Spanish e-invoicing and tax compliance.** A VeriFactu/AEAT platform implementing
