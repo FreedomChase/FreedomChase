@@ -1,7 +1,7 @@
 ## Shaun Cheeseman — Málaga, Spain
 
-I build, ship and operate production SaaS on my own. Not prototypes — systems with
-real users, real payments and real uptime.
+I build, ship and operate production software. Working systems with real users, real
+payments and real uptime — not slide decks, not mockups, not proposals.
 
 Most of my work lives in private repositories, either because it is a commercial
 product or because it belongs to a client. So this profile is thin by necessity,
@@ -21,7 +21,7 @@ designed, built, deployed and operated by me — including the parts that are no
 fun: migrations, billing edge cases, backups, and the 3am ones.
 
 **Client platforms.** CRM, telephony and scheduling systems for companies in Spain
-and Sweden. Not named here; they are not mine to advertise.
+and Sweden. Not named here — they belong to the clients.
 
 ### How I work
 
